@@ -1,0 +1,11 @@
+Public teaching repo package files:
+
+- GraphPad_Prism_Basics_Workshop_Berwin_Singh.pptx  (from 1-GraphPad_Prism_Basics_Workshop-Berwin Singh.pptx)
+- irinotecan_standards.csv  (from 1_irinotecan_standard_curve_summary.csv)
+- rat_bp_paired.csv  (from 2a_rat_BP_2groups PAIRED.csv)
+- rat_bp_unpaired.csv  (from 2b_rat_BP_2groups UN-PAIRED.csv)
+- h9c2_cell_death_5groups.csv  (from 3_cell_death_percent_5groups.csv)
+
+Missing source files during package creation:
+- irinotecan_unknowns_lab_problem.csv
+- irinotecan_unknowns.csv  (student unknowns for standard-curve demo)
